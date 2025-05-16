@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ParcheggioMazzoleni.Form1.resources
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ParcheggioMazzoleni.csproj.GenerateResource.cache
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ParcheggioMazzoleni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ParcheggioMazzoleni.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ParcheggioMazzoleni.AssemblyInfo.cs
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ParcheggioMazzoleni.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\bin\Debug\net6.0-windows\ParcheggioMazzoleni.exe
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\bin\Debug\net6.0-windows\ParcheggioMazzoleni.deps.json
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\bin\Debug\net6.0-windows\ParcheggioMazzoleni.runtimeconfig.json
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\bin\Debug\net6.0-windows\ParcheggioMazzoleni.dll
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\bin\Debug\net6.0-windows\ParcheggioMazzoleni.pdb
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ParcheggioMazzoleni.dll
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\refint\ParcheggioMazzoleni.dll
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ParcheggioMazzoleni.pdb
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ParcheggioMazzoleni.genruntimeconfig.cache
+C:\Users\user\Desktop\parcheggio--main\ParcheggioMazzoleni\ParcheggioMazzoleni\obj\Debug\net6.0-windows\ref\ParcheggioMazzoleni.dll
